@@ -29,8 +29,12 @@ Real estate pricing is often complex and influenced by multiple factors. The goa
 
 ---
 
+---
+
 ## 📁 Project Structure
 
+---
+'''text
 House-Price-Prediction/
 │
 ├── app.py
@@ -43,6 +47,9 @@ House-Price-Prediction/
 ├── __pycache__/
 │
 └── .gitignore
+'''
+
+---
 
 ---
 
