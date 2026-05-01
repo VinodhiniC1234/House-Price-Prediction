@@ -31,6 +31,42 @@ Real estate pricing is often complex and influenced by multiple factors. The goa
 
 ---
 
+## ✨ Features
+- 📊 Dataset visualization in dashboard
+- 🧠 Machine Learning-based prediction
+- 🔢 User input form for predictions
+- 💰 Real-time house price prediction
+- 🖥️ Interactive Streamlit UI
+- ⚡ Lightweight and fast execution
+
+---
+
+## 🔄 Workflow
+1. Load dataset from CSV file  
+2. Train Linear Regression model  
+3. Accept user input via Streamlit UI  
+4. Pass input to trained model  
+5. Display predicted house price instantly  
+
+---
+
+## 📚 Learning Outcomes
+- Understanding ML pipeline (data → model → prediction)
+- Hands-on experience with Streamlit web apps
+- Data handling using Pandas
+- Model building using Scikit-learn
+- GitHub project deployment workflow
+
+---
+
+## 🚀 Future Improvements
+- Improve model accuracy using advanced algorithms (Random Forest, XGBoost)
+- Add data visualization charts (pairplot, heatmap)
+- Deploy project on Streamlit Cloud / AWS
+- Add user authentication system
+- Include larger real-world dataset for better predictions
+---
+
 ## 📁 Project Structure
 
 ```text
@@ -50,7 +86,3 @@ House-Price-Prediction/
 
 ---
 
-
-
-
-- Include larger real-world dataset for better predictions
